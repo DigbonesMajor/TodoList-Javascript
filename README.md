@@ -1,19 +1,19 @@
-#About the Website
+# About the Website
 
 Creating a simple website which can be used to add, remove and store tasks to be done by the user.
 
-#Languages/Packages used
+# Languages/Packages used
 
 1. Html
 2. CSS
 3. Javascript
 
-#Libraries and Resources Used
+# Libraries and Resources Used
 
 1. Bootstrap v4.3.1
 2. Font Awesome to get the delete 'Trash Bin' icon.
 
-#Website Paradigm
+# Website Paradigm
 
 1. **Create Task**: Enter the task to be done or completed and click on Add button to add the entered task into list of 'My Tasks'.
 
